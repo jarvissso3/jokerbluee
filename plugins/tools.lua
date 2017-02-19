@@ -1041,15 +1041,15 @@ function run(msg, matches, callback, extra)
         end
 	   --Start.
 	   --ADV(Dont change!):
-	    if msg.text:match("^[!/#][Aa][Dd][Vv][Aa][Nn]$") then
+	    if msg.text:match("^[!/#][Jj][Oo][Kk][Ee][Rr]$") then
     	    about_text = [[*IN THE NAME OF ALLAH*
 This is an original bot and based on (AdvanSource).
 Copyright all right reserved and you must respect all laws.
 
-Source: https://github.com/janlou/AdvanSource
-Channel: @AdvanTeam
-Messenger: @Advanbot
-Creator: @janlou
+Source: https://github.com/jarvisso3/jokerblue
+Channel: @jarvis_joker
+Messenger: @joker_hr3
+Creator: @joker_hr
 Site: http://StoreVps.net
 Version: [4.1]
 ]]
