@@ -1,4 +1,4 @@
---Start tools.lua by @janlou
+--Start tools.lua by @joker_hr
 --[[Plugins:
 savefile
 saveplug
@@ -9,7 +9,7 @@ onservice
 setteam
 setsudo (Default: local sudo_id = 123456789)
 addsudo
-clean deleted (Thanks to @Blackwolf_admin)
+clean deleted (Thanks to @joker_hr3)
 filter
 hyper & bold & italic & code
 addplug
